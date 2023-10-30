@@ -1,0 +1,19 @@
+admin login details
+username: admin@admin.com
+password:admin123
+
+project manager login details
+username: thameem@sample.com
+password:thameem123
+
+employee1 login details
+username: mausooq@sample.com
+password:mausooq123
+
+employee2 login details
+username: nafih@sample.com
+password:naifh123
+
+employee3 login details
+username: raz@sample.com
+password:raz123
